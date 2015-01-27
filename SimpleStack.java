@@ -4,13 +4,13 @@
 // File:             SimpleStack.java
 // Semester:         CS367 Fall 2013
 //
-// Author:           Navneet Reddy nsreddy@wisc.edu
+// Author:           Navneet Reddy
 // CS Login:         navneet
 // Lecturer's Name:  Jim Skrentny
 // Lab Section:      Lecture 1
 //
 //                   PAIR PROGRAMMERS COMPLETE THIS SECTION
-// Pair Partner:     Jason Tiedt tiedt2@wisc.edu
+// Pair Partner:     Jason Tiedt
 // CS Login:         jtiedt
 // Lecturer's Name:  Jim Skrentny
 // Lab Section:      Lecture 1
